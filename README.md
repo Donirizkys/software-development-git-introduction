@@ -7,3 +7,14 @@ Nama: Doni Rizki Styawan
 NPM: 2413020064
 
 Ini adalah Profil singkat saya
+
+## Tools yang digunakan
+
+- Git
+- GitHub
+- Visual Studio Code
+
+## Daftar File
+
+- README.md
+- perkenalan.md
